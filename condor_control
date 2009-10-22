@@ -1,0 +1,9 @@
+Package: condor
+Priority: optional
+Section: net
+Installed-Size: 186
+Maintainer: David Wolinsky <davidiw@ufl.edu>
+Architecture: amd64, i386
+Depends: 
+Recommends: 
+Description: Condor Grid Scheduler
