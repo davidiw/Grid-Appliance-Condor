@@ -42,7 +42,6 @@
 ./bin/condor_vacate
 ./bin/condor_reschedule
 ./bin/condor_stats
-./bin/condor_transferer
 ./bin/condor_status
 ./bin/condor_dagman
 ./bin/condor_submit_dag
